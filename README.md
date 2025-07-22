@@ -4,7 +4,7 @@
 ![SPI](https://img.shields.io/badge/SPI-DMA_Mode-green)
 
 
-<img src="https://github.com/user-attachments/assets/8d60d98c-a5a4-41fc-b629-ba7f3a53283b" alt="D75529BA-819E-4876-AA83-56B22F1C4733">
+<img src="https://github.com/user-attachments/assets/8d60d98c-a5a4-41fc-b629-ba7f3a53283b" width="550" alt="D75529BA-819E-4876-AA83-56B22F1C4733">
 
 
 
