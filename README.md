@@ -1,5 +1,7 @@
 # STM32F411 Nucleo SPI DMA Communication
 
+![STM32F411](https://img.shields.io/badge/STM32F411-Nucleo-blue) 
+![SPI](https://img.shields.io/badge/SPI-DMA_Mode-green)
 
 
 High-speed SPI communication using DMA on STM32F411 Nucleo.
